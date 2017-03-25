@@ -1,0 +1,6 @@
+framework module Pods_SuperVendingTests {
+  umbrella header "Pods-SuperVendingTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
